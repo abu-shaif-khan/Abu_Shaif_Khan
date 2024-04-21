@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-  <h3  align="center"  > Visit my  <a target="_blank"  href="https://about.me/musfiqur.rahman" > [Portfolio]</a>  </h3> 
+  <h3  align="center"  > Visit my  <a target="_blank"  href="" > [Portfolio]</a>  </h3> 
   
   <hr/>
   
@@ -87,10 +87,10 @@ Here are some ideas to get you started:
 <hr/>
 
 <p align="center">
-<a href=""><img alt="PortFolio" src="https://img.shields.io/badge/Musfiqur Rahman Foysal-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/foysal619/"><img alt="LinkedIn" src="https://img.shields.io/badge/foysal619-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/musfiq8008/"><img alt="Facebook" src="https://img.shields.io/badge/Musfiqur Rahman Foysal-Facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:musfiqurrahmanfoysal77@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-musfiqurrahmanfoysal77@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href=""><img alt="PortFolio" src=""></a>
+<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/foysal619-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href=""><img alt="Facebook" src="https://img.shields.io/badge/Musfiqur Rahman Foysal-Facebook-blue?style=flat&logo=facebook"></a>
+<a href=""><img alt="email" src="https://img.shields.io/badge/Email-musfiqurrahmanfoysal77@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
