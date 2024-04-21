@@ -6,9 +6,10 @@ A passionate Software Quality Assurance  Engineer 🚀
 
 <h3>🛠 Tech Stack</h3>
 
- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
+- 💻 &nbsp;
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- 💻 &nbsp; ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 - 🌐 &nbsp; 
